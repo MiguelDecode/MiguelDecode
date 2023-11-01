@@ -10,7 +10,7 @@
 
 ## GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YourName)](https://github.com/MiguelDecode)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=migueldecode)](https://github.com/MiguelDecode)
 
 ## Languages and Tools
 
