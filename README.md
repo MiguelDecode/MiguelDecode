@@ -16,16 +16,6 @@
 - 💬 Ask me just about anything. I am happy to help.
 - ⚡ Fun fact: I love keyboards and VIM, every day more.
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=migueldecode&show_icons=true&locale=en&layout=compact&theme=react" alt="migueldecode" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=migueldecode&show_icons=true&theme=react" alt="migueldecode" />
-</p>
-
 ## Languages and Tools
 
 <p align="center" style="margin: 30px">
